@@ -46,7 +46,7 @@ ook houden we een score bord bij die er voor zorgt dat je kan zien hoelang je bl
    [Logboek]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/logboek.pdf>
    [GameDesignDoc]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/GameDesignDoc.pdf>
    [RetrospectiveVerslagen]: <https://github.com/Delysha/agp_inlever_template/blob/master/producten/Retrospective_Verslag.pdf>
-   [ReviewVerslagen]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/ReviewVerslagen.pdf>
+   [ReviewVerslagen]: <https://github.com/Delysha/agp_inlever_template/blob/master/producten/Sprint_Review_verslag.pdf>
    [Prototype]: <https://www.mijnmytheprototype.nl>
    [Playlist van videos]: <https://www.youtube.com/playlist?list=PLnBx3KKOKHtALh1aE0SLvpywmG3A-yhSj>
    
