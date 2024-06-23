@@ -45,7 +45,7 @@ ook houden we een score bord bij die er voor zorgt dat je kan zien hoelang je bl
    [sprint backlog]: <https://unreal-academy.codecks.io/decks/152-sprint-backlog-06>
    [Logboek]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/logboek.pdf>
    [GameDesignDoc]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/GameDesignDoc.pdf>
-   [RetrospectiveVerslagen]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/RetrospectiveVerslagen.pdf>
+   [RetrospectiveVerslagen]: <https://github.com/Delysha/agp_inlever_template/blob/master/producten/Retrospective_Verslag.pdf>
    [ReviewVerslagen]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/ReviewVerslagen.pdf>
    [Prototype]: <https://www.mijnmytheprototype.nl>
    [Playlist van videos]: <https://www.youtube.com/playlist?list=PLnBx3KKOKHtALh1aE0SLvpywmG3A-yhSj>
