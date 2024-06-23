@@ -25,7 +25,7 @@ ook houden we een score bord bij die er voor zorgt dat je kan zien hoelang je bl
 #### Producten Werkproces 2
 | Product  | Link |
 | ------ |  ------ |
-| Online Product backlog & Sprint backlog + DoD (Codecks)    | [Backlog] [sprint backlog]
+| Online Product backlog & Sprint backlog + DoD (Codecks)    | [Backlog] / [sprint backlog]
 | Sprint retrospective verslagen (pdf)                      | [RetrospectiveVerslagen]
 | Logboek (pdf)                                             | [Logboek]
 | Opnames sprint retrospectives (Teams opnames)             | [Playlist van videos]
