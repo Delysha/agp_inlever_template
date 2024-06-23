@@ -1,17 +1,21 @@
 ## [titel van jullie game]
-Project team:[jullie namen]
+Project team:The Rift Guardian
 
 Platform:
-[jullie platfom]
+Unreal Engine 5.3
 
 ### Korte omschrijving van de game
-...
-
+De game die we hebben gemaakt is een VR Shooter game 
+het gaat over een mens die naar een raren planeet is geteloporteert door een portal en wordt aan gevallen 
+door verschillende enemies ofterwijl verschillende alliens die daar op de plant komen. de aliens komen door 3 verschillende portalen
+onze kant op. wij moeten ze vernietigen en er voor zorgen dat je niet dood gaat. ook hebben we een shop gemaakt waar je allemaal verschillende objecten kan kopen 
+die je kunnen helpen. bij voorbeeld een pistool, granaat, turret en zelfs een Totem of undying dat je dus kan gebruiken om weer tot leven te komen. 
+ook houden we een score bord bij die er voor zorgt dat je kan zien hoelang je bleef leven tot je dood en je kan de score zien als je dood bent.
 ---
 #### Producten Werkproces 1
 | Product  | Link |
 | ------ |  ------ |
-| Link naar online product backlog (Trello) | [Backlog]
+| Link naar online product backlog (codeDecks) | [Backlog]
 | Logboek (pdf)                             | [Logboek]
 | Game concept doc (pdf)                    | [GameDesignDoc]
 |<img width=500/>|<img width=300/>|
@@ -22,8 +26,8 @@ Platform:
 | Online Product backlog & Sprint backlog + DoD (Trello)    | [Backlog]
 | Sprint retrospective verslagen (pdf)                      | [RetrospectiveVerslagen]
 | Logboek (pdf)                                             | [Logboek]
-| Opnames sprint retrospectives (Teams opnames)             | [Folder op teams]
-| Opnames standups (Teams opnames)                          | [Folder op teams]
+| Opnames sprint retrospectives (Teams opnames)             | [Playlist van videos]
+| Opnames standups (Teams opnames)                          | [Playlist van videos]
 |<img width=500/>|<img width=300/>|
    
 #### Producten Werkproces 3
@@ -35,11 +39,11 @@ Platform:
 | Logboek (pdf)                         | [Logboek]
 |<img width=500/>|<img width=300/>|
 
-   [Backlog]: <https://trello.com/b/hik72z4q/mythe-2019-voorbeeld-trello>
+   [Backlog]: <https://unreal-academy.codecks.io/decks/109-product-backlog>
    [Logboek]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/logboek.pdf>
    [GameDesignDoc]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/GameDesignDoc.pdf>
    [RetrospectiveVerslagen]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/RetrospectiveVerslagen.pdf>
    [ReviewVerslagen]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/ReviewVerslagen.pdf>
    [Prototype]: <https://www.mijnmytheprototype.nl>
-   [Folder op teams]: <https://www.linknaarmijnfolderopteams.nl>
+   [Playlist van videos]: <https://www.youtube.com/playlist?list=PLnBx3KKOKHtALh1aE0SLvpywmG3A-yhSj>
    
